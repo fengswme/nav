@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>NavHub</title>
+  <link rel="icon" href="_media/favicon.ico" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="keywords" content="NavHub" />
+  <meta name="description" content="Bookmarks for useful websites.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+</head>
+
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+      logo: '',
+      name: 'NavHub',
+      repo: 'https://github.com/JingShe116/NavHub/',
+      auto2top: true,
+      coverpage: true,
+      onlyCover: false,
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      autoHeader: true,
+      routerMode: 'hash',
+      themeColor: '#3F51B5',
+      notFoundPage: true,
+      requestHeaders: {
+      },
+      search: {
+        noData: 'No results!',
+        paths: 'auto',
+        placeholder: 'Search',
+        pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn']
+      },
+
+
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script> -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script> -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '8c54ceec665c2aa83787',
+      clientSecret: 'c4b9816434a28fe6a41032243aa0ec0b2d9e6b45',
+      repo: 'NavHub',
+      owner: 'JingShe116',
+      admin: ['JingShe116'],
+      distractionFreeMode: false,
+      createIssueManually: true
+    })
+  </script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+</body>
+
+</html>
