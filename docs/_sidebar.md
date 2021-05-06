@@ -2,7 +2,7 @@
 - [Docs](docs.md)
 - [Materials](materials.md)
 - [Tools](tools.md)
-- [Softwares](Softwares.md)
+- [Softwares](softwares.md)
 - [Communities](communities.md)
 
 
