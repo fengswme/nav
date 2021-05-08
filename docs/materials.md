@@ -18,6 +18,7 @@
 ## Icon
 
 - [iconfont](https://www.iconfont.cn/)
+- [Easyicon](https://www.easyicon.net/)
 - [IconFinder](https://www.iconfinder.com/)
 - [Feather](https://feathericons.com/)
 
