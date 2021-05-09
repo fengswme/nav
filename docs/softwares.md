@@ -9,6 +9,7 @@
 - [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)
 - [Rapid Environment Editor](https://www.rapidee.com/en/about)
 - [PowerToys](https://github.com/microsoft/PowerToys)
+- [Listary](https://www.listary.com/)
 
 ## Doc
 
