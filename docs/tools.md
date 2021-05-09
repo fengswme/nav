@@ -25,6 +25,7 @@
 - [removebg](https://www.remove.bg/zh)
 - [svgtopng](https://svgtopng.com/zh/)
 - [Picsvg](https://picsvg.com/)
+- [改图宝](https://www.gaitubao.com/)
 
 ### Document Convert
 
