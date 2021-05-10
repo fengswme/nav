@@ -2,6 +2,7 @@
 
 - [在线PS](https://www.uupoop.com/#/old)
 - [在线音频剪辑](https://www.weixinsyt.com/)
+- [在线手写汉字识别](https://hanzi.unihan.com.cn/Qpen)
 
 
 ## Toolkit
