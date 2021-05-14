@@ -77,6 +77,7 @@
 - [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh?utm_source=chrome-ntp-icon)
 - [爱搜资源云盘助手](https://chrome.zzzmh.cn/info?token=mbklgpngoohbbagagdfoccaclpdhgihd)
 - [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?utm_source=chrome-ntp-icon)
+- [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)
 
 ## Redis
 
