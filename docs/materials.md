@@ -51,7 +51,7 @@
 ## Video
 
 - [片库](https://www.mypianku.net/)
-- [真不卡](https://www.zhenbuka2.com/)
+- [真不卡](https://www.zhenbuka.vip/)
 
 ## Nav Site
 
