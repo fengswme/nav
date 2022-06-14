@@ -2,5 +2,5 @@
 
 > Bookmarks for useful websites.
 
-[GitHub](https://github.com/JingShe116/NavHub/)
-[Getting Started](#NavHub)
+[GitHub](https://github.com/fengswme/nav/)
+[Getting Started](#nav)
